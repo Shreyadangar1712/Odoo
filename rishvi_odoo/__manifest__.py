@@ -69,7 +69,7 @@
 
         ],
     },
-    "images": ['static/description/cover.png'],
+    "images": ['/static/description/cover.png'],
     "installable": True,
     "application": False,
     "auto_install": False,
