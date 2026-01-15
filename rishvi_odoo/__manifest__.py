@@ -69,7 +69,9 @@
 
         ],
     },
-    "images": ['/static/description/cover.png'],
+    "images": [
+        "rishvi_pos/static/description/cover.png",
+    ],
     "installable": True,
     "application": False,
     "auto_install": False,
